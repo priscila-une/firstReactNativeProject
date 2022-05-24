@@ -1,4 +1,6 @@
 # Introdução ao React Native / DIO
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLWz74E057t-09LRAKWlYMq31NlcITQx9bmObh9yO2cxJWZZPvoZDOZeUcWmgevAQqqv0RYwuWxYFYIa-3J6FHgXN7mCJ3D2CzYM3MyuW-VsUgxpKt0MhN-z1zAmGFOFAH9Tjl4lBwXzxpW_RPM4liC8mg=w370-h657-no?authuser=0" />
+
 ## Conteúdo
 - Conhecendo o React Native
   - O que é react-native?
